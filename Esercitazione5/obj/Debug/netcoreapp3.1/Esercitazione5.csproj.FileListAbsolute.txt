@@ -1,0 +1,13 @@
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.csprojAssemblyReference.cache
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.AssemblyInfoInputs.cache
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.AssemblyInfo.cs
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.csproj.CoreCompileInputs.cache
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\bin\Debug\netcoreapp3.1\Esercitazione5.exe
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\bin\Debug\netcoreapp3.1\Esercitazione5.deps.json
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\bin\Debug\netcoreapp3.1\Esercitazione5.runtimeconfig.json
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\bin\Debug\netcoreapp3.1\Esercitazione5.runtimeconfig.dev.json
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\bin\Debug\netcoreapp3.1\Esercitazione5.dll
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\bin\Debug\netcoreapp3.1\Esercitazione5.pdb
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.dll
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.pdb
+C:\Users\martina.libreri\Desktop\Corso\Esercitazione5\Esercitazione5\obj\Debug\netcoreapp3.1\Esercitazione5.genruntimeconfig.cache
